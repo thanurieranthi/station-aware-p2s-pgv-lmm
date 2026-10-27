@@ -1,0 +1,12 @@
+"model","term","estimate","std_error"
+"model_ols","(Intercept)",0.88029286467453,0.00674323196625237
+"model_ols","log_IV2_3",0.511943841910032,0.00129201061657085
+"model_1_null","(Intercept)",-1.75435976341946,0.0846298572612544
+"model_2_random_intercepts","(Intercept)",0.693432947137189,0.0168843375231732
+"model_2_random_intercepts","log_IV2_3",0.483255470640815,0.00157465753447325
+"model_3_station_slope","(Intercept)",0.725905359938807,0.0182339635635227
+"model_3_station_slope","log_IV2_3",0.490463651683319,0.00292169095808269
+"model_4_station_event_slopes","(Intercept)",0.710088645577546,0.0189545198600962
+"model_4_station_event_slopes","log_IV2_3",0.487095840565676,0.00293213977343055
+"model_5_operational","(Intercept)",0.915906884926101,0.0174612775826314
+"model_5_operational","log_IV2_3",0.527215033031616,0.00371029376121866

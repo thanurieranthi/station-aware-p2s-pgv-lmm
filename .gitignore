@@ -1,0 +1,15 @@
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Large / regenerated
+data/processed/*.csv
+*.hdf5
+*.h5
+# OS
+.DS_Store

@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code or the fitted models, please cite the article and this archive."
+title: "Station-aware P-to-S ground-motion estimation with linear mixed-effects models: code and fitted models"
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Eranthi
+    given-names: E V T
+    orcid: "https://orcid.org/0009-0006-0979-3256"
+    affiliation: "Department of Statistics, University of Colombo"
+  - family-names: Lakraj
+    given-names: G P
+    orcid: "https://orcid.org/0000-0003-3921-8552"
+    affiliation: "Department of Statistics, University of Colombo"
+  - family-names: Ravishan
+    given-names: Danuka
+    orcid: "https://orcid.org/0009-0008-4828-7051"
+    affiliation: "Joint Centre for Disaster Research, Massey University"
+  - family-names: Prasanna
+    given-names: Raj
+    orcid: "https://orcid.org/0000-0002-5608-6558"
+    affiliation: "Joint Centre for Disaster Research, Massey University"
+keywords: [earthquake early warning, mixed-effects models, P wave, PGV, GeoNet, New Zealand]
+preferred-citation:
+  type: article
+  title: "A Mixed-Effects Modeling Approach for Station-Aware P-to-S Ground-Motion Estimation in Earthquake Early Warning"
+  journal: "Seismological Research Letters"
+  authors:
+    - family-names: Eranthi
+      given-names: E V T
+    - family-names: Lakraj
+      given-names: G P
+    - family-names: Ravishan
+      given-names: Danuka
+    - family-names: Prasanna
+      given-names: Raj

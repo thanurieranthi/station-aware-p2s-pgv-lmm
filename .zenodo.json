@@ -1,0 +1,17 @@
+{
+  "title": "Station-aware P-to-S ground-motion estimation with linear mixed-effects models: code and fitted models",
+  "upload_type": "software",
+  "description": "Code, fitted linear mixed-effects models (OLS and Models 1-5), station-specific coefficients for 297 GeoNet strong-motion stations, and the derived record-level feature table for the SRL article 'A Mixed-Effects Modeling Approach for Station-Aware P-to-S Ground-Motion Estimation in Earthquake Early Warning'.",
+  "creators": [
+    {"name": "Eranthi, E V T", "affiliation": "University of Colombo", "orcid": "0009-0006-0979-3256"},
+    {"name": "Lakraj, G P", "affiliation": "University of Colombo", "orcid": "0000-0003-3921-8552"},
+    {"name": "Ravishan, Danuka", "affiliation": "Massey University", "orcid": "0009-0008-4828-7051"},
+    {"name": "Prasanna, Raj", "affiliation": "Massey University", "orcid": "0000-0002-5608-6558"}
+  ],
+  "license": "MIT",
+  "keywords": ["earthquake early warning", "mixed-effects models", "P wave", "PGV", "GeoNet", "New Zealand"],
+  "related_identifiers": [
+    {"identifier": "10.21420/G19Y-9D40", "relation": "isDerivedFrom", "scheme": "doi"},
+    {"identifier": "10.21420/0S8P-TZ38", "relation": "isDerivedFrom", "scheme": "doi"}
+  ]
+}
