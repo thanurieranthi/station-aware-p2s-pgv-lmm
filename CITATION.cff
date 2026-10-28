@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this code or the fitted models, please cite the article and this archive."
 title: "Station-aware P-to-S ground-motion estimation with linear mixed-effects models: code and fitted models"
-version: 1.0.1
+version: 1.2.0
 license: CC-BY-NC-4.0
 doi: 10.5281/zenodo.23686243
 authors:
