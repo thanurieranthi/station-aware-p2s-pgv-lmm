@@ -103,9 +103,12 @@ waveform data https://doi.org/10.21420/G19Y-9D40, catalogue https://doi.org/10.2
 used under CC BY 4.0. We acknowledge the New Zealand GeoNet programme and its sponsors NHC,
 Earth Sciences NZ, LINZ, NEMA and MBIE.
 
-- Code (`R/`, `python/`, `run_all.R`): MIT License — see `LICENSE`.
-- Derived data and model outputs (`data/`, `outputs/`): CC BY 4.0 — see `data/LICENSE-DATA.md`.
+- All contents — code (`R/`, `python/`, `run_all.R`), derived data (`data/`) and model outputs
+  (`outputs/`) — are licensed under CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0
+  International) — see `LICENSE`. Use for research, teaching and other non-commercial purposes is
+  permitted with attribution; commercial use is not. For commercial use, please contact the
+  corresponding author.
 
 ## Citation
 
-Please cite the article and this archive (see `CITATION.cff`; DOI: 10.5281/zenodo.XXXXXXX).
+Please cite the article and this archive (see `CITATION.cff`; DOI: 10.5281/zenodo.23686243).
